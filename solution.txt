@@ -399,3 +399,52 @@
   637  ls 
   638  ls -a
   639  history | tail -n 500
+
+639  history | tail -n 500
+  640  history | tail -n 400
+  641  git commit -m "attempt 2" 
+  642  ls 
+  643  cd star_wars
+  644  ls
+  645  git add empire 
+  646  cd 
+  647  ls
+  648  cd ga_seir
+  649  ls
+  650  cd unt1
+  651  cd unit1
+  652  ls
+  653  cd homeworkNew
+  654  ls
+  655  cd u1_hw_star_wars
+  656  ls
+  657  git add *
+  658  ls
+  659  git commit -m "third attempt, previously unable to do any github processes because other github process were happening in other terminals"
+  660  ls
+  661  git origin push main
+  662  git push origin main
+  663  git status 
+  664  git push origin main
+  665  git remote -v 
+  666  git remote set-url origin git@github.com:SEI-R-6-21/u1_hw_star_wars.git
+  667  git push origin main
+  668  git remote -v 
+   669  history | tail -n 100
+  670  git status 
+  671  git push origin main
+  672  git remote -v 
+  673  git remote set-url git@github.com:jamest7783/u1_hw_star_wars.git
+  674  git remote set-url" git@github.com:jamest7783/u1_hw_star_wars.git"
+  675  git remote set-url " git@github.com:jamest7783/u1_hw_star_wars.git"
+  676  git remote add origin  "git@github.com:jamest7783/u1_hw_star_wars.git"
+  677  git remote 0v
+  678  git remote -v
+  679  git remote set-url origin  "git@github.com:jamest7783/u1_hw_star_wars.git"
+  680  remote -v
+  681  git remote-v
+  682  git remote -v
+  683  ls
+  684  git status 
+  685  git push origin main
+➜  u1_hw_star_wars git:(main) ✗ 
