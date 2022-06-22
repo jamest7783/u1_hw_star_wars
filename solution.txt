@@ -1,0 +1,401 @@
+➜  u1_hw_star_wars git:(main) ✗ history | tail -n 400
+  240  cd ..
+  241  ls
+  242  cd ..
+  243  touch obi_wan.txt cd star_wars/rebellion
+  244  ls 
+  245  cd star_wars
+  246  ;s
+  247  ls
+  248  cd rebellion
+  249  ls
+  250  pwd
+  251  touch luke_skywalker.txt
+  252  owd
+  253  pwd
+  254  mkdir millenium_falcon
+  255  touch han_solo.txt chewbacca.txt cd millenium_falcon
+  256  ls
+  257  cd millenium_falcon
+  258  ls
+  259  cd ..
+  260  ls
+  261  cd millenium_falcon touch han_solo.txt chewbacca.txt
+  262  cd millenium_falcon && touch han_solo.txt chewbacca.txt
+  263  ls
+  264  ls 
+  265  cd ..
+  266  ls
+  267  cd ..
+  268  ls
+  269  cd empire
+  270  ls
+  271  cd ..
+  272  ls
+  273  cd rebellion
+  274  ls
+  275  touch princess_leia.txt
+  276  ls
+  277  mv luke_skywalker.txt 
+  278  clear
+  279  cd star_wars/rebellion && touch princess_leia.txt && echo >> princess_leia.txt "Help me, Obi Wan"
+  280  cd..
+  281  cd ..
+  282  ls 
+  283  ^[[200~cd star_wars/rebellion && touch princess_leia.txt && echo >> princess_leia.txt "Help me, Obi Wan"~
+  284  cd ..
+  285  ls
+  286  cd star_wars/rebellion
+  287  cd
+  288  ls
+  289  cd ga_seir
+  290  ls
+  291  cd unit1
+  292  ls
+  293  cd homework
+  294  ls
+  295  cd ul_hq_star_wars
+  296  cd u1_hq_star_wars
+  297  cd u1_hw_star_wars
+  298  ls
+  299  cd star_wars
+  300  ls
+  301  cd ..
+  302  ls
+  303  cd star_wars/rebellion && touch princes_leia.txt && echo "Help me,Obi Wan..." >> princess_leia.txt
+  304  ls
+  305  mv millenium_falcon ;luke_skywalker.txt obi_wan.txt princess_leia.txt 
+  306  mv -t millenium_falcon luke_skywalker.txt obi_wan.txt princess_leia.txt 
+  307  mv -t .. millenium_falcon
+  308  cd .. 
+  309  ls
+  310  death_star mv millenium_falcon
+  311  mv-t death_start millenium_falcon
+  312  mv -t death_start millenium_falcon
+  313  mv -t death_star millenium_falcon
+  314  ls
+  315  mv -t empire/death_start millenium_falcon
+  316  mv -t empire\death_start millenium_falcon
+  317  mv -t empire/death_star millenium_falcon
+  318  clear
+  319  ls
+  320  cd ..
+  321  ls
+  322  ^[[200~mv -t star_wars/empire/death_star star_wars/empire/death_star/millenium_falcon~
+  323  mv -t star_wars/empire/death_star star_wars/empire/death_star/millenium_falcon
+  324  mv -t star_wars/empire/death_star stlsar_wars/empire/death_star/millenium_falcon
+  325  ls
+  326  cd star_wars/empire/death_star 
+  327  ls
+  328  mv -t .. millenium_falcon
+  329  ls
+  330  cd ..
+  331  ls
+  332  mv -t death_star millenium_falcon
+  333  ls
+  334  cd death_start
+  335  cd death_star
+  336  ls
+  337  cd ..
+  338  ls
+  339  cd empire/death_star/millenium_falcon 
+  340  cd ..
+  341  ls
+  342  ls 
+  343  cd ..
+  344  cd empire/death_star
+  345  ls
+  346  mv -t millenium_falcon 
+  347  ls
+  348  cd ..
+  349  cd empire/death_star/millenium_falcon && mv * ../
+  350  cd ..
+  351  ls
+  352  rm obi_wan.txt
+  353  ls
+  354  mv chewbacca.txt han_solo.txt luke_skywalker.txt princess_leia.txt millenium_falcon
+  355  mv millenium_falcon ../rebellion
+  356  ls
+  357  mv darth_vader.txt ../
+  358  ls
+  359  cd .. && rm death_star
+  360  ls
+  361  rmdir death_star
+  362  ls
+  363  ../
+  364  ls
+  365  cd empire
+  366  ls
+  367  cd darth_vader.txt
+  368  cd ../
+  369  ls
+  370  cd ..
+  371  ls
+  372  rmdir u1_hw_star_wars
+  373  rm u1_hw_star_wars
+  374  ls
+  375  rmdir u1_hw_star_wars
+  376  rm u1_hw_star_wars
+  377  ls
+  378  rm u1_hw_star_wars
+  379  ls
+  380  cd ..
+  381  ls
+  382  rm u1_hw_star_wars
+  383  ls
+  384  google-chrome
+  385  cd star_wars
+  386  ls
+  387  git clone git@github.com:SEI-R-6-21/u1_hw_star_wars.git
+  388  ls 
+  389  cd ..
+  390  mkdir homeworkNew
+  391  ls
+  392  cd homeworkNew
+  393  ls
+  394  git clone git@github.com:SEI-R-6-21/u1_hw_star_wars.git
+  395  ls
+  396  cd u1_hw_star_wars
+  397  ls
+  398  cd ..
+  399  code .
+  400  ls
+  401  cd u1_hw_star_wars
+  402  ls
+  403  mkdir star_wars
+  404  ls
+  405  git -remote
+  406  git remote -v 
+  407  ls 
+  408  git add star_wars
+  409  git status 
+  410  git commit 
+  411  ls
+  412  cd .. 
+  413  ls
+  414  cd u1_hw_star_wars
+  415  ls
+  416  git add star_wars
+  417  git status 
+  418  cd star_wars && mkdir empire rebellion
+  419  ls
+  420  cd empire && touch darth_vader.txt
+  421  ls
+  422  git add darth_vader.txt
+  423  git status 
+  424  git commit 
+  425  history | tail -n 250
+  426  ls
+  427  cd u1_hw_star_wars
+  428  ls
+  429  ls 
+  430  cd star_wars
+  431  ls
+  432  cd empire
+  433  ls
+  434  echo "heavy breathing..." >> darth_vader.txt
+  435  ls
+  436  touch emperor_palpatine.txt
+  437  ls
+  438  mkdir death_star
+  439  ls
+  440  mv darth_vader.txt death_star
+  441  ls
+  442  git add *
+  443  git status
+  444  git commit -m "homework act 1 commits"
+  445  ls
+  446  git status 
+  447  git push origin main
+  448  git remote -v 
+  449  git push origin main
+  450  git remote -v
+  451  git commit origin main
+  452  git push origiin
+  453  git push origin
+  454  git push origin main
+  455  ls
+  456  cd ..
+  457  ls
+  458  cd ..
+  459  ls
+  460  git push origin main
+  461  cd ..
+  462  git push origin main
+  463  git status 
+  464  cd u1_hw_star_wars
+  465  ls
+  466  git status 
+  467  git commit -a
+  468  ls 
+  469  u1_hw_star_wars
+  470  ls
+  471  git status 
+  472  git push origin main
+  473  git -v remote
+  474  git remote -v
+  475  ls 
+  476  cd star_wars
+  477  ls
+  478  cd empire
+  479  ls
+  480  cd death_star
+  481  ls
+  482  git push origin main
+  483  git status 
+  484  cd ../
+  485  ls
+  486  cd ..
+  487  ls
+  488  cd rebellion && touch princess.leia && echo "Help me, Obi Wan" >> princess_leia
+  489  ls
+  490  rm princess.leia
+  491  ls
+  492  ls 
+  493  cd ..
+  494  ls
+  495  cd rebellion
+  496  ls
+  497  rm princess_leia && echo "Help me, Obi Wan" >> princess_leia.txt
+  498  ls
+  499  touch obi_wan.txt
+  500  ls
+  501  touch luke_skywalker.txt
+  502  ls
+  503  mkdir millenium_falcon
+  504  ls
+  505  cd millenium_falcon && touch han_solo.txt chewbacca.txt
+  506  ls
+  507  cd ..
+  508  ls
+  509  git add *
+  510  ls
+  511  mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon
+  512  ls
+  513  mv millenium_falcon ../empire/death_star
+  514  ls
+  515  cd ..
+  516  ls
+  517  cd empire/death_star
+  518  ls
+  519  cd millenium_falcon && mv * ../death_star
+  520  cd millenium_falcon && mv * .. death_star
+  521  ls
+  522  mv * ..
+  523  ls
+  524  cd ..
+  525  ls
+  526  rm obi_wan.txt
+  527  mv chewbacca.txt han_solo.txt princess_leia.txt luke_skywalker.txt millenium_falcom
+  528  mv chewbacca.txt han_solo.txt princess_leia.txt luke_skywalker.txt millenium_falcon
+  529  ls
+  530  mv millenium_falcom ../rebellion
+  531  ls
+  532  mv millenium_falcon ..
+  533  ls
+  534  cd ..
+  535  ls
+  536  mv millenium_falcon ../rebellion
+  537  ls
+  538  cd ..
+  539  ls
+  540  cd rebellion
+  541  ls
+  542  cd ..
+  543  ls
+  544  cd empire/death_star ** mv darth_vader.txt ../empire
+  545  cd empire/death_star && mv darth_vader.txt ../empire
+  546  ls
+  547  ls 
+  548  cd ..
+  549  ls
+  550  cd empire
+  551  ls
+  552  cd death_star
+  553  ls
+  554  cd ..
+  555  ls
+  556  cd empire 
+  557  ls
+  558  cd empire 
+  559  ls 
+  560  cd empire
+  561  empire
+  562  rm empire
+  563  ls
+  564  cd ..
+  565  ls
+  566  cd rebellion
+  567  ls
+  568  cd millenium_falcon
+  569  ls
+  570  cd ..
+  571  ls
+  572  cd ..
+  573  ls
+  574  cd empire
+  575  ls
+  576  cd death_star
+  577  ls
+  578  echo "heavy breathing..." >> darth_vader.txt
+  579  ls
+  580  mv darth_vader.txt ..
+  581  ls
+  582  cd ..
+  583  ls
+  584  rm death_star
+  585  rmdir death_star
+  586  ls
+  587  cd ..
+  588  ls
+  589  git add *
+  590  ls -a
+  591  cd ..
+  592  ls -a
+  593  cd ..
+  594  ls
+  595  rmdir homework
+  596  rm homework
+  597  ls
+  598  cd homework
+  599  ls
+  600  ls -a
+  601  cd u1_hw_star_wars
+  602  ls -a 
+  603  rm .git
+  604  rmdir .git
+  605  rm .git
+  606  ls 
+  607  cd ..
+  608  rm u1_hw_star_wars
+  609  rm -d u1_hw_star_wars
+  610  cd 
+  611  ls
+  612  cd ha_seir
+  613  ls
+  614  cd ga_seir
+  615  ls
+  616  cd unit1/homeowkr
+  617  cd unit1/homeowork
+  618  cd unit1
+  619  ls
+  620  homeworkNew
+  621  ls
+  622  git add *
+  623  cd u1_hw_star_wars
+  624  git add *
+  625  cd ..
+  626  ls
+  627  rm homework
+  628  rm -r homework
+  629  ls
+  630  cd homeworkNew
+  631  ls
+  632  cd u1_hw_star_wars
+  633  ls
+  634  git add *
+  635  git remote -v 
+  636  git commit -m "attempt 2" 
+  637  ls 
+  638  ls -a
+  639  history | tail -n 500
